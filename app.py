@@ -16,7 +16,7 @@ import random
 # -------------------------------
 # API KEY CONFIGURATION
 # -------------------------------
-API_KEY = "MASTERR"  # Change this to your desired secret key
+API_KEY = "MASTERR4841"  # Change this to your desired secret key
 WRONG_KEY_RESPONSE = {
     "error": "I DEFINATELY FUCK YOU SO GO AND BUILD YOUR SELF AN API",
     "credits": "@MASTER_FF_01"
